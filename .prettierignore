@@ -1,0 +1,10 @@
+# Jekyll/Liquid-шаблоны: Prettier ломает Liquid-тэги внутри HTML-атрибутов.
+_includes/
+_layouts/
+index.html
+
+# Сборочные артефакты Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
